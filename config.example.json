@@ -1,0 +1,11 @@
+{
+  "discord": {
+    "bot_token": "",
+    "guild_id": "706121159405731910",
+    "channel_id": "706121159405731913"
+  },
+  "twitch": {
+    "client_id": "",
+    "client_secret": ""
+  }
+}
